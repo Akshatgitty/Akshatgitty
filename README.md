@@ -86,10 +86,10 @@ hobbies:
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Akshatgitty&show_icons=true&theme=radical&hide_border=true&border_radius=12" alt="Akshat's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Akshatgitty&show_icons=true&theme=radical&hide_border=true&border_radius=12&cache_seconds=86400" alt="Akshat's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Akshatgitty&theme=radical&hide_border=true&border_radius=12" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=Akshatgitty&theme=radical&hide_border=true&border_radius=12" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -118,20 +118,6 @@ hobbies:
     <img width="715" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshatgitty&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
   </a>
 </div>
-
-<!-- divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════  SNAKE  ═══════════════════════ -->
-<h2>🐍 Contribution Snake</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshatgitty/Akshatgitty/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshatgitty/Akshatgitty/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Akshatgitty/Akshatgitty/output/github-snake-dark.svg" width="100%"/>
-  </picture>
-</p>
 
 <!-- divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
