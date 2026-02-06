@@ -11,6 +11,14 @@
 <!-- divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- ═══════════════════════  GIF  ═══════════════════════ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hasankhan10/hasankhan10/main/coding.gif" width="400" alt="Coding GIF" style="border-radius: 16px;"/>
+</p>
+
+<!-- divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- ═══════════════════════  ABOUT  ═══════════════════════ -->
 <h2>🧑‍💻 About Me</h2>
 
