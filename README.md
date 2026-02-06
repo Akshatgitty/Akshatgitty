@@ -13,7 +13,7 @@
 
 <!-- ═══════════════════════  GIF  ═══════════════════════ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hasankhan10/hasankhan10/main/coding.gif" width="400" alt="Coding GIF" style="border-radius: 16px;"/>
+  <img src="https://media4.giphy.com/media/Sx2jWspiy33gYxNNuo/giphy.gif" width="400" alt="Batman GIF" style="border-radius: 16px;"/>
 </p>
 
 <!-- divider -->
@@ -32,9 +32,9 @@ fields_of_interest:
   - Data Science
   - Data-driven Projects
 currently_learning:
-  - TypeScript
-  - React / Next.js
-  - System Design
+  - NumPy
+  - Pandas
+  - Matplotlib
 hobbies:
   - Coding side-projects
   - Gaming
@@ -118,6 +118,20 @@ hobbies:
     <img width="715" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshatgitty&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
   </a>
 </div>
+
+<!-- divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════  SNAKE  ═══════════════════════ -->
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshatgitty/Akshatgitty/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshatgitty/Akshatgitty/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Akshatgitty/Akshatgitty/output/github-snake-dark.svg" width="100%"/>
+  </picture>
+</p>
 
 <!-- divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
