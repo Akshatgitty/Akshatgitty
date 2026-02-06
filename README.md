@@ -20,8 +20,8 @@ located_in: India
 current_focus: Building cool web apps & learning new stacks
 education: Student / Self-taught Developer
 fields_of_interest:
-  - Web Development
-  - Automation & Dev Tools
+  - Machine Learning
+  - Data Science
   - Data-driven Projects
 currently_learning:
   - TypeScript
@@ -108,18 +108,6 @@ hobbies:
   <!-- Activity Graph -->
   <a href="https://github-readme-activity-graph.vercel.app/graph?username=Akshatgitty&theme=react-dark&hide_border=true&area=true">
     <img width="715" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshatgitty&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
-  </a>
-</div>
-
-<!-- divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════  TROPHIES  ═══════════════════════ -->
-<h2>🏆 Trophies</h2>
-
-<div align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=Akshatgitty" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Akshatgitty&theme=radical&no-frame=true&margin-w=6&margin-h=6&column=7" alt="Trophies"/>
   </a>
 </div>
 
