@@ -133,7 +133,6 @@ hobbies:
       </td>
     </tr>
   </table>
-
 </div>
 
 <!-- divider -->
