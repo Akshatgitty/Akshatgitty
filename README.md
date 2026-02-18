@@ -88,6 +88,16 @@ hobbies:
 <!-- divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- ═══════════════════════  CONTRIBUTION SNAKE  ═══════════════════════ -->
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshatgitty/Akshatgitty/output/github-snake.svg" alt="Contribution Snake" />
+</p>
+
+<!-- divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- ═══════════════════════  GITHUB STATS  ═══════════════════════ -->
 <h2>📊 GitHub Statistics</h2>
 
