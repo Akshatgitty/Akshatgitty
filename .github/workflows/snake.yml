@@ -1,5 +1,8 @@
 name: GitHub Snake
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 0 * * *"
