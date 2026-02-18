@@ -1,11 +1,11 @@
 <!-- ═══════════════════════  HEADER  ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00e7ff,100:ff6ec7&height=220&section=header&text=Akshat%20Srivastava&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=The%20Next%20Big%20Thing%20🚀&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff9ad5,100:ff69b4&height=220&section=header&text=Akshat%20Srivastava&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=The%20Next%20Big%20Thing%20🚀&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 </p>
 
 <!-- ═══════════════════════  TYPING SVG  ═══════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%7C+Builder;Python+%7C+JavaScript+%7C+TypeScript;Clean+Code+%E2%80%A2+Ship+Fast+%E2%80%A2+Learn+Always;Open+Source+Enthusiast+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff69b4&center=true&vCenter=true&width=550&lines=Machine%20Learning%20Enthusiast%20%7C%20Builder;Python%20%7C%20ML%20%7C%20Data%20Science;Clean%20Code%20%E2%80%A2%20Ship%20Fast%20%E2%80%A2%20Learn%20Always;Open%20Source%20Enthusiast%20%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 <!-- divider -->
@@ -13,7 +13,7 @@
 
 <!-- ═══════════════════════  GIF  ═══════════════════════ -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtiMWw1cGVpZGdjYWlxa2o3cW81YXp1ZWdkeWg0M2QydDBpbWF2cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="400" alt="GIF" style="border-radius: 16px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVqczBsMG0zZTB5cG9wcG5pZHM0MXIwYWt5dGU1Y3dxYTRxN3ZxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kZqbBT64ECtjy/giphy.gif" width="400" alt="GIF" style="border-radius: 16px;"/>
 </p>
 
 <!-- divider -->
@@ -41,6 +41,25 @@ hobbies:
   - Exploring open-source
 ```
 
+<!-- ═══════════════════════  PROFILE SNAPSHOT  ═══════════════════════ -->
+<h2>✨ Profile Snapshot</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Machine%20Learning%20Enthusiast-0d1117?style=for-the-badge&labelColor=0d1117&color=ff9ad5" alt="Role"/>
+  <img src="https://img.shields.io/badge/Focus-Clean%20Code%20%26%20Fast%20Shipping-0d1117?style=for-the-badge&labelColor=0d1117&color=ff69b4" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Love-Open%20Source-0d1117?style=for-the-badge&labelColor=0d1117&color=ffd1dc" alt="Love"/>
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Stack</b><br/>Python • ML • Data Science</td>
+      <td align="center"><b>Currently</b><br/>Learning Data-Driven Development</td>
+      <td align="center"><b>Mindset</b><br/>Build • Learn • Share</td>
+    </tr>
+  </table>
+</div>
+
 <!-- divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -49,10 +68,10 @@ hobbies:
 
 <p align="center">
   <a href="https://github.com/Akshatgitty" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/akshat-srivastava-7b89852a3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-ff9ad5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -69,6 +88,16 @@ hobbies:
 <!-- divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<!-- ═══════════════════════  CONTRIBUTION SNAKE  ═══════════════════════ -->
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Akshatgitty/Akshatgitty/output/github-snake-dark.svg" alt="Contribution Snake" />
+</p>
+
+<!-- divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- ═══════════════════════  GITHUB STATS  ═══════════════════════ -->
 <h2>📊 GitHub Statistics</h2>
 
@@ -76,8 +105,8 @@ hobbies:
   <table>
     <tr>
       <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshatgitty&theme=radical">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshatgitty&theme=radical"/>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshatgitty&theme=rose_pine">
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshatgitty&theme=rose_pine"/>
         </a>
       </td>
     </tr>
@@ -86,10 +115,10 @@ hobbies:
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Akshatgitty&show_icons=true&theme=radical&hide_border=true&border_radius=12&cache_seconds=86400" alt="Akshat's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Akshatgitty&show_icons=true&theme=rose_pine&hide_border=true&border_radius=12&cache_seconds=86400" alt="Akshat's GitHub Stats" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com?user=Akshatgitty&theme=radical&hide_border=true&border_radius=12" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=Akshatgitty&theme=rose_pine&hide_border=true&border_radius=12" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -97,26 +126,14 @@ hobbies:
   <table>
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshatgitty&theme=radical" alt="Repos per Language"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshatgitty&theme=rose_pine" alt="Repos per Language"/>
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akshatgitty&theme=radical" alt="Most Commit Language"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akshatgitty&theme=radical" alt="Stats"/>
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akshatgitty&theme=radical" alt="Productive Time"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akshatgitty&theme=rose_pine" alt="Most Commit Language"/>
       </td>
     </tr>
   </table>
 
-  <!-- Activity Graph -->
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=Akshatgitty&theme=react-dark&hide_border=true&area=true">
-    <img width="715" src="https://github-readme-activity-graph.vercel.app/graph?username=Akshatgitty&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
-  </a>
 </div>
 
 <!-- divider -->
@@ -124,12 +141,12 @@ hobbies:
 
 <!-- ═══════════════════════  PROFILE VIEWS  ═══════════════════════ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akshatgitty&label=Profile%20Views&color=00e7ff&style=for-the-badge&logo=star" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Akshatgitty&label=Profile%20Views&color=ff69b4&style=for-the-badge&logo=star" alt="Profile Views"/>
 </p>
 
 <!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00e7ff,100:ff6ec7&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff9ad5,100:ff69b4&height=120&section=footer" width="100%"/>
 </p>
 
 <p align="center">
