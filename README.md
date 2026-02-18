@@ -146,11 +146,6 @@ hobbies:
   <img src="https://komarev.com/ghpvc/?username=Akshatgitty&label=Profile%20Views&color=ff69b4&style=for-the-badge&logo=star" alt="Profile Views"/>
 </p>
 
-<!-- ═══════════════════════  VIBE SHOT  ═══════════════════════ -->
-<p align="center">
-  <img src="spiderman.jpeg" width="420" alt="Pink Spidey" style="border-radius: 16px;"/>
-</p>
-
 <!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff9ad5,100:ff69b4&height=120&section=footer" width="100%"/>
