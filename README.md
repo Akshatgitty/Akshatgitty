@@ -5,7 +5,7 @@
 
 <!-- ═══════════════════════  TYPING SVG  ═══════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff69b4&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%7C+Builder;Python+%7C+JavaScript+%7C+TypeScript;Clean+Code+%E2%80%A2+Ship+Fast+%E2%80%A2+Learn+Always;Open+Source+Enthusiast+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff69b4&center=true&vCenter=true&width=550&lines=Machine%20Learning%20Enthusiast%20%7C%20Builder;Python%20%7C%20ML%20%7C%20Data%20Science;Clean%20Code%20%E2%80%A2%20Ship%20Fast%20%E2%80%A2%20Learn%20Always;Open%20Source%20Enthusiast%20%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 <!-- divider -->
@@ -14,6 +14,10 @@
 <!-- ═══════════════════════  GIF  ═══════════════════════ -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtiMWw1cGVpZGdjYWlxa2o3cW81YXp1ZWdkeWg0M2QydDBpbWF2cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="400" alt="GIF" style="border-radius: 16px;"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBjaDhsZmV3MjduaXI2MnV5c3lhdjl1bjVmbzlicms5MnRlMDdsZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kZqbBT64ECtjy/giphy.gif" width="400" alt="GIF" style="border-radius: 16px;"/>
 </p>
 
 <!-- divider -->
@@ -45,7 +49,7 @@ hobbies:
 <h2>✨ Profile Snapshot</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0d1117?style=for-the-badge&labelColor=0d1117&color=ff9ad5" alt="Role"/>
+  <img src="https://img.shields.io/badge/Role-Machine%20Learning%20Enthusiast-0d1117?style=for-the-badge&labelColor=0d1117&color=ff9ad5" alt="Role"/>
   <img src="https://img.shields.io/badge/Focus-Clean%20Code%20%26%20Fast%20Shipping-0d1117?style=for-the-badge&labelColor=0d1117&color=ff69b4" alt="Focus"/>
   <img src="https://img.shields.io/badge/Love-Open%20Source-0d1117?style=for-the-badge&labelColor=0d1117&color=ffd1dc" alt="Love"/>
 </p>
@@ -53,7 +57,7 @@ hobbies:
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>Stack</b><br/>Python • JavaScript • TypeScript</td>
+      <td align="center"><b>Stack</b><br/>Python • ML • Data Science</td>
       <td align="center"><b>Currently</b><br/>Learning Data-Driven Development</td>
       <td align="center"><b>Mindset</b><br/>Build • Learn • Share</td>
     </tr>
@@ -144,6 +148,11 @@ hobbies:
 <!-- ═══════════════════════  PROFILE VIEWS  ═══════════════════════ -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Akshatgitty&label=Profile%20Views&color=ff69b4&style=for-the-badge&logo=star" alt="Profile Views"/>
+</p>
+
+<!-- ═══════════════════════  VIBE SHOT  ═══════════════════════ -->
+<p align="center">
+  <img src="spiderman.jpeg" width="420" alt="Pink Spidey" style="border-radius: 16px;"/>
 </p>
 
 <!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
