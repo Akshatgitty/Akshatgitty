@@ -13,7 +13,7 @@
 
 <!-- ═══════════════════════  GIF  ═══════════════════════ -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtiMWw1cGVpZGdjYWlxa2o3cW81YXp1ZWdkeWg0M2QydDBpbWF2cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="400" alt="GIF" style="border-radius: 16px;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVqczBsMG0zZTB5cG9wcG5pZHM0MXIwYWt5dGU1Y3dxYTRxN3ZxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kZqbBT64ECtjy/giphy.gif" width="400" alt="GIF" style="border-radius: 16px;"/>
 </p>
 
 <!-- divider -->
